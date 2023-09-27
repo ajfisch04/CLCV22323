@@ -1,0 +1,1 @@
+...and at last when he'd got everybody's expectations up high enough, he rolled up the curtain, and the next minute the king come a-prancing out on all fours, in a suit and tie; and he was painted all over, ring-streaked-and- striped, all sorts of colors, as splendid as a rainbow.
