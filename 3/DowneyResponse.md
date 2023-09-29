@@ -1,1 +1,3 @@
+A variable is a keyword that stores a value.  This value is "initialized" at some point in the code, the variable can be used in functions and changed at any point thereafter.  Variables have some naming conventions and cannot conflict with words reserved by the programming language for it's own use, so the name of the variable could be a source for errors.
 
+A parameter is...
