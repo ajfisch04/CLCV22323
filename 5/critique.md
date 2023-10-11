@@ -2,13 +2,13 @@
 
 ## Papyri.info
 
-- Type 1
+- Permanence:
 
-- Type 2
+- Openness:
 
-- Type 3
+- Functionality:
 
-- Type 4
+- Connectivity:
 
 ## Perseus Digital Library
 
