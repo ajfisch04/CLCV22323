@@ -12,13 +12,13 @@
 
 ## Perseus Digital Library
 
-- Type 1
+- Permanence:
 
-- Type 2
+- Openness:
 
-- Type 3
+- Functionality:
 
-- Type 4
+- Connectivity:
 
 # RESPONSE
 
