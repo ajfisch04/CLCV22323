@@ -2,23 +2,23 @@
 
 ## Papyri.info
 
-- Permanence:
+- Permanence: B, it looked pretty good on the website but a prominetly labeled fundraiser I clicked off onto had a dead link, never a good sign.
 
-- Openness:
+- Openness: A, I never ran into any password requirements or areas I couldn't access.
 
-- Functionality:
+- Functionality: A, data was indexed and searchable in many ways.
 
-- Connectivity:
+- Connectivity: A, links were included to library collections holding the artifacts including UMich.
 
 ## Perseus Digital Library
 
-- Permanence:
+- Permanence:  A, frequent updates (recently 2021) and no visible external services that might default at some point.
 
-- Openness:
+- Openness:  A, I never ran into any password-locked pages.
 
-- Functionality:
+- Functionality:  A, data was searchable in many ways including by terms included in the text.
 
-- Connectivity:
+- Connectivity: C, it looked like most of their collections were "internal" rather than external and therefore linked relatively fewer resources outside of their own library system.
 
 # RESPONSE
 
