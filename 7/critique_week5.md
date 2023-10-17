@@ -12,10 +12,10 @@
 
 ## Digital Maps of the Ancient World
 
-- Permanence: x
+- Permanence: C, it's one person making custom maps with their google account, any policy change from Google could lead to these maps being irrecovably lost.
 
-- Openness: x
+- Openness: B, I can view everything but there isn't an easy csv file or other way to download the information.
 
-- Functionality: x
+- Functionality: A, they are very intiuitive maps.
 
-- Connectivity: x
+- Connectivity: B, there aren't hyperlinked footnotes to everything written there or anything.
