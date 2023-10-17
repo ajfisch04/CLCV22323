@@ -4,7 +4,7 @@
 
 - Permanence: x
 
-- Openness: x
+- Openness: C, only some alphabetical indexes of the thesaurus are avaliable, and only in PDF format (not csv).
 
 - Functionality: x
 
