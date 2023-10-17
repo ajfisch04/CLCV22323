@@ -2,6 +2,12 @@
 
 ## Thesaurus Linguae Latinae (TLL)
 
- - C
+- Permanence: x
+
+- Openness: x
+
+- Functionality: x
+
+- Connectivity: x
 
 ## Digital Maps of the Ancient World
