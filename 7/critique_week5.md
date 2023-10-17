@@ -11,3 +11,11 @@
 - Connectivity: x
 
 ## Digital Maps of the Ancient World
+
+- Permanence: x
+
+- Openness: x
+
+- Functionality: x
+
+- Connectivity: x
