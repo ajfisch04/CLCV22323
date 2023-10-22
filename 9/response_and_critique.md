@@ -14,10 +14,10 @@
 
 ## Digital Dead Sea Scrolls
 
-- Permanence: X
+- Permanence: C, this dosen't seem very clearly indexed to last and the reader window says "powered by google" while implies that this uses a subscription service from a cloud-hosting company that will eventually be depriciated.
 
-- Openness: X
+- Openness: A, you can click in and see everything.
 
-- Functionality: X
+- Functionality: C, this is very good for a public-facing museum exhibit, but for scholars you would want both a way to download high-quality images of the text and a text file where you could read the whole thing in ancient script and translation without clicking through the graphic.
 
-- Connectivity: X
+- Connectivity: C, there aren't really any cross-citations to other scholarly works.
