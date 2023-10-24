@@ -1,5 +1,7 @@
 # Response
 
+GIS allows you to layer various maps and spatially-indexed data sets on top of each other by standardizing their latitude and longitude, and then look at the combinations and/or do data science comparison things for greater insights.  One interesting thing I took from the reading was the "Initiation/Contagion" steps of the technology adoption process, I never thought of a "contagion" phase where you must experiment wwith a new technology to see if it can meet needs it wasn't purpose-built for.  It's compelling how GIS is described as a syncretic entity that combines various fields.
+
 # Critique
 
 ## Homer Multitext
