@@ -1,0 +1,1 @@
+3D modeling has assisted archaelogists by allowing the study of objects remotely with detailed digital representations that capture both an object's surface texture and appearance.  There are many ways of accomplishing this, many of which
