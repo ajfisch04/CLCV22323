@@ -1,4 +1,4 @@
-## X
+## Ancient Graffiti
 
 - Permanence: X *x*
 
@@ -8,7 +8,7 @@
 
 - Connectivity: X *x*
 
-## X
+## Kenchreai Archaeological Archive
 
 - Permanence: X *x*
 
