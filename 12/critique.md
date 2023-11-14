@@ -10,10 +10,10 @@
 
 ## Kenchreai Archaeological Archive
 
-- Permanence: X *x*
+- Permanence: B *Simple format image files indirectly avaliable for download from your browser.  Not an A because nothing on the site offers an easy way to download the entire collection of images at once.*
 
-- Openness: X *x*
+- Openness: A *Everything on the website is publicly avaliable.*
 
-- Functionality: X *x* 
+- Functionality: B *I can see everything, the cross-links are useful, and suggested citations are offered.  One drawback was that clicking into each individual notebook pagescan is cumbersome and it would be more convenient if you could scroll them.* 
 
-- Connectivity: X *x*
+- Connectivity: C *The site is self-contained.*
