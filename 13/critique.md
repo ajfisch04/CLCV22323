@@ -1,4 +1,4 @@
-## Inscriptions Israel Palistine
+## Inscriptions Israel Palestine
 
 - Permanence: B *Given that this appears to be an agglomeration of published works collected in cloud-hosting, you could easily imagine this going offline without recovery options in a library or something similar.  You can download their data, though, so it is more likely that you could find somebody that had saved it for themselves.*
 
