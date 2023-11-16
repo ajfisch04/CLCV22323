@@ -10,10 +10,10 @@
 
 ## The Oxyrhynchus Papyri
 
-- Permanence: X *x*
+- Permanence: A *Everything in the collection is published as an academic volume through a publisher.*
 
-- Openness: X *x*
+- Openness: C *Free E-books and online indexes are not made easily avaliable, you must buy paper copies of the books and search manually.*
 
-- Functionality: X *x*
+- Functionality: C *There is no search function, individual paper books must be retrieved and searched through, images must be requested from papyri host institutions on an as=needed basis.*
 
-- Connectivity: X *x*
+- Connectivity: A *Scholarly bibliography and locations of papyri cited.*
