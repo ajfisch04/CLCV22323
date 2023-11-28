@@ -1,6 +1,6 @@
-# Week 5 Critique
+# Class 17 Critique
 
-## X
+## Logeion
 
 - Permanence: X, *x*
 
@@ -10,7 +10,7 @@
 
 - Connectivity: X, *x*
 
-## X
+## OCHRE
 
 - Permanence: X, *x*
 
