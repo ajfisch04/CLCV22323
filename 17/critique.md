@@ -12,10 +12,10 @@
 
 ## OCHRE
 
-- Permanence: X, *x*
+- Permanence: C, *The wide variety of digital-exclusive file types and the large quantity of data would make the preservation of this without significant continuous institutional support challenging.*
 
-- Openness: X, *x*
+- Openness: A, *Compatible with SPARQL and accessible to web browsers in xml format.*
 
-- Functionality: X, *x*
+- Functionality: B, *Seems pretty functional, marking down only because I saw no easy portal to view the published research information from the main page.*
 
-- Connectivity: X, *x*
+- Connectivity: A, *Since this is a framework for independent researchers it obviously depends on them, but it seems to provide what an independent researcher would need to connect with other scholarship appropriately.*
