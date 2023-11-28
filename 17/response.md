@@ -1,4 +1,4 @@
-AI's impacts on scholarship (as opposed to education) are almost entirely positive.  The two positive impacts are (a) automating large quantities of work and (b) predictive rendering.  The one negative impact (c) is errors caused by trusting the accuracy of AI too much.
+AI's impacts on scholarship (as opposed to education) are almost entirely positive.  The two positive impacts are (a) automating large quantities of work and (b) predictive rendering.  The one negative impact is (c) errors caused by trusting the accuracy of AI too much.
 
 (a) Similar to the latin formatting algorithm Daniel was talking about in class, automating large quantities of intellectual drudge work allows human researchers to spend more time developing interprative ideas using larger quantities of source material.
 
