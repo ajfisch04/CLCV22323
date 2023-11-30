@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<pubdate>unknown</pubdate>
+<title>Adult Mental Health Providers</title>
+<geoform>vector digital data</geoform>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Adult (Community-based) Mental Health Service Providers. The Department of Behavioral Health ensures that high quality mental health services are available to District residents through a rigorous certification program conducted by the Office of Accountability. DBH certifies a provider to deliver services that support individual recovery with qualified, culturally competent staff in a safe facility. A provider also must comply with local and federal rules and regulations. Only a certified provider is eligible to participate in the District’s public behavioral health system. Services include diagnostic assessment, medication, counseling and community support. Those who need health services can also contact the ACCESS Helpline at 1-888-793-4357 and talk with a behavioral health professional for guidance through the process.</abstract>
+<purpose>The Department of Behavioral Health certifies a provider to deliver services that support individual recovery with qualified, culturally competent staff in a safe facility. </purpose>
+<supplinf>&lt;Any supplemental information that further describes or applies to the dataset.&gt;</supplinf>
+</descript>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom/>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>DC GIS</themekey>
+<themekey>DCGIS</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>health</themekey>
+<themekey>society</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>DCGIS</placekey>
+<placekey>DC GIS</placekey>
+<placekey>DC</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20003</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</ptcontac>
+<datacred>Department of Behavioral Health</datacred>
+</idinfo>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>13</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>DCGIS.AdultProvidersPt</enttypl>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+</attr>
+<attr>
+<attrlabl>XCOORD</attrlabl>
+</attr>
+<attr>
+<attrlabl>YCOORD</attrlabl>
+</attr>
+<attr>
+<attrlabl>MAR_ID</attrlabl>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+</attr>
+<attr>
+<attrlabl>SE_ANNO_CAD_DATA</attrlabl>
+</attr>
+<attr>
+<attrlabl>GIS_ID</attrlabl>
+</attr>
+<attr>
+<attrlabl>GlobalID</attrlabl>
+</attr>
+<attr>
+<attrlabl>Creator</attrlabl>
+</attr>
+<attr>
+<attrlabl>Created</attrlabl>
+</attr>
+<attr>
+<attrlabl>Editor</attrlabl>
+</attr>
+<attr>
+<attrlabl>Edited</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20003</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</distrib>
+<distliab>See access and use constraints information.</distliab>
+<custom>DC datasets can be downloaded from "http://opendata.dc.gov".</custom>
+</distinfo>
+<metainfo>
+<metd>20171212</metd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>200 I Street SE, 5th Floor</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20003</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
